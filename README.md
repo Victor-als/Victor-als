@@ -1,8 +1,8 @@
 ##  Olá eu sou o Victor!, Estudante de programação!!
 
 
-- Estudante de Analise e desenvolcimento de sistemas.
-- Irei colocar aqui um pouco do que estou aprendendo com HTML, CSS, JAVASCRIPT.
+- Estudante de Analise e desenvolvimento de sistemas.
+- Irei colocar aqui um pouco do que estou aprendendo com HTML, CSS, JAVASCRIPT, REACTJS
  ##
 
 <div align = "center">
