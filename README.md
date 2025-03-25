@@ -115,7 +115,6 @@ Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, crian
 
 <div align="center"> 
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -123,7 +122,6 @@ Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, crian
   />
 
  <img 
-  align="left" 
   alt="GitHub Stats" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-als&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
