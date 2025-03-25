@@ -1,10 +1,9 @@
-###  Opaaa seja Bem vindo!, me chamo Victor e sou Dev Front-end!!
+###  Opaaa seja Bem vindo(a)!, me chamo Victor e sou Dev Front-end!!
 
 ---
 
- Estudante de Analise e desenvolvimento de sistemas.
  
- Aqui tem alguns projetos que tenho feito com HTML, CSS, JAVASCRIPT, REACTJS.
+ Aqui tem alguns projetos que tenho feito com HTML, CSS, JavaScript, ReactJS e TypeScript.
 
 <div align = "center">
   <a href="https://github.com/Victor-als">
