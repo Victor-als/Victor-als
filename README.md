@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Victor Alves, tenho [sua idade] e sou natural de São Paulo-SP. Concluí minha formação em Análise e Desenvolvimento de Sistemas e tenho 2 anos e 7 meses de experiência como Desenvolvedor Front-End. 
+Me chamo Victor Alves, tenho 23 anos e sou natural de São Paulo-SP. Concluí minha formação em Análise e Desenvolvimento de Sistemas e tenho 2 anos e 7 meses de experiência como Desenvolvedor Front-End. 
 Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades, criando soluções eficientes e inovadoras.
 
 <p align="left">
